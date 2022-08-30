@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiccionarioPOO.Consola", "DiccionarioPOO.Consola\DiccionarioPOO.Consola.csproj", "{8E8A07E7-C275-48E4-8F5A-9347ED889B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiccionarioPOO.Entidades", "DiccionarioPOO.Entidades\DiccionarioPOO.Entidades.csproj", "{79BAFBD2-B9F9-44EE-AE63-C640A19F1D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8A07E7-C275-48E4-8F5A-9347ED889B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8A07E7-C275-48E4-8F5A-9347ED889B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8A07E7-C275-48E4-8F5A-9347ED889B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8A07E7-C275-48E4-8F5A-9347ED889B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BAFBD2-B9F9-44EE-AE63-C640A19F1D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BAFBD2-B9F9-44EE-AE63-C640A19F1D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BAFBD2-B9F9-44EE-AE63-C640A19F1D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BAFBD2-B9F9-44EE-AE63-C640A19F1D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23CC6275-FC92-49BD-B205-DE2B9AA34BE6}
+	EndGlobalSection
+EndGlobal
